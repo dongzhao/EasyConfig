@@ -1,0 +1,1 @@
+EasyCofig is a light weight object oriented configuration framework. 
